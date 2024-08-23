@@ -15,5 +15,18 @@
     "workspaces": [
         "src/backend",
         "src/frontend"
-    ]
+    ],
+    "dependencies": {
+        "@dfinity/agent": "^2.0.0",
+        "@dfinity/auth-client": "^2.0.0",
+        "bootstrap": "^5.3.3",
+        "jotai": "^2.9.3",
+        "muller": "^1.1.0",
+        "multer": "^1.4.5-lts.1",
+        "react-bootstrap": "^2.10.4",
+        "react-router-dom": "^6.26.1"
+    },
+    "devDependencies": {
+        "@types/multer": "^1.4.11"
+    }
 }

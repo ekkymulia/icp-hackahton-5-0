@@ -4,7 +4,7 @@
             "type": "custom",
             "main": "src/backend/backend.ts",
             "candid": "src/backend/backend.did",
-            "build": "npx azle backend",
+            "build": "npx azle --native-compilation backend",
             "wasm": ".azle/backend/backend.wasm",
             "gzip": true,
             "assets": [
@@ -24,7 +24,18 @@
                     "content": "azle"
                 }
             ]
-        }
+        },
+        "internet_identity": {
+            "candid": "https://github.com/dfinity/internet-identity/releases/latest/download/internet_identity.did",
+            "frontend": {},
+            "remote": {
+              "id": {
+                "ic": "rdmx6-jaaaa-aaaaa-aaadq-cai"
+              }
+            },
+            "type": "custom",
+            "wasm": "https://github.com/dfinity/internet-identity/releases/latest/download/internet_identity_dev.wasm.gz"
+          }
     },
     "output_env_file": ".env"
 }
