@@ -1,3 +1,10 @@
+# `HAPPY LIQUIDATIONS - ICP HACKATHON MAIN PROJECT | Team 29`
+
+Team Members:
+- Ekky Mulia Lasardi
+- Syah Bintang
+- Nafis Faturrahman
+
 # ICP Development Environment with Azle and React
 
 This template gives you everything you need to build a full-stack Web3 application on the [Internet Computer](https://internetcomputer.org/).
