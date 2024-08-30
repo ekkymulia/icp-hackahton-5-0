@@ -15,6 +15,10 @@ User Flows:
 2. User Want to Register it's own app to use the Authenticator
 3. User Signin via Integrated APP with AI Face Validation
 
+How to run:
+1. Please insert your open ai Api key in the backend.ts file, search for <secret key>
+2. Running using docker
+
 # ICP Development Environment with Azle and React
 
 This template gives you everything you need to build a full-stack Web3 application on the [Internet Computer](https://internetcomputer.org/).

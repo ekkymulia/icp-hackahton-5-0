@@ -201,7 +201,7 @@ app.post('/face-verification', async (req, res) => {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
-                'Authorization': `Bearer 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`
+                'Authorization': `Bearer <secret key>`
             },
             body: JSON.stringify({
                 model: 'gpt-4o',
