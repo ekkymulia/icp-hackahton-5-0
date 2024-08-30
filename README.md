@@ -1,9 +1,19 @@
-# `HAPPY LIQUIDATIONS - ICP HACKATHON MAIN PROJECT | Team 29`
+# `HAPPY LIQUIDATIONS ONLINE - ICP HACKATHON 5.0 Project`
 
 Team Members:
 - Ekky Mulia Lasardi
 - Syah Bintang
 - Nafis Faturrahman
+
+
+About The APP:
+
+KYChain is the ideal solution for integrating Web 2.0 and Web 3.0 in KYC (Know Your Customer) processes, leveraging HTTPS outcalls for secure communication and data integrity. With AI-driven facial recognition technology, it enhances the accuracy and efficiency of KYC verification while facilitating a seamless transition for businesses. Through educational content and user testimonials, KYChain showcases its effectiveness in improving security and streamlining operations. Its robust security features mitigate data breach risks and foster user trust. Engaging in industry events and partnerships further positions KYChain as a leader in revolutionizing identity verification for the future.
+
+User Flows:
+1. User Create Account Independently or Check KYC Profile in the APP
+2. User Want to Register it's own app to use the Authenticator
+3. User Signin via Integrated APP with AI Face Validation
 
 # ICP Development Environment with Azle and React
 
